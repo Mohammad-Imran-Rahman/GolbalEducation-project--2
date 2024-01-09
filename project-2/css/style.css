@@ -1,0 +1,28 @@
+.dropdown:hover .dropdown-menu {
+    display: block;
+    margin-top: 20px;
+
+}
+
+.dropdown:hover {
+    border-bottom: 5px solid orangered;
+}
+
+.backgroundImage {
+    background-image: url("/image/Arts-University-Bournemouth.webp");
+    background-repeat: no-repeat;
+
+    height: 800px;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+#img1 {
+    height: 40px;
+    width: 200px;
+    margin-left: 100px;
+
+}
